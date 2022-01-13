@@ -1,4 +1,4 @@
-# Multiomics data analysis 
+# Multi-omics data analysis 
 
 A personal collection of resources, focused on multi-omics data analysis. 
 
