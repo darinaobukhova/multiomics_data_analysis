@@ -1,6 +1,6 @@
 # Multiomics data analysis 
 
-A personal collection or resources, focused on multi-omics data analysis. 
+A personal collection of resources, focused on multi-omics data analysis. 
 
 # Relevance 
 
